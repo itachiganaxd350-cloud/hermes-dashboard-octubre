@@ -1,0 +1,2019 @@
+{
+  "meta": {
+    "titulo": "CIERRE OCTUBRE 2026",
+    "periodo": "Enero – Octubre 2026",
+    "fuente": "CIERRE OCTUBRE 2026.xls"
+  },
+  "cierre": {
+    "asiCerramos": 83664.48299999993,
+    "presupuesto1": 69158,
+    "cumplimiento1": 120.97585673385571,
+    "presupuesto2": 82000,
+    "cumplimiento2": 102.02985731707308,
+    "crecimientoAA": -2.5,
+    "crecimientoMM": 17.75,
+    "margen": 17.11,
+    "utilidad": 145052548.74999988,
+    "valorNeto": 938907907
+  },
+  "pesos": {
+    "meses": [
+      "ENERO",
+      "FEBRERO",
+      "MARZO",
+      "ABRIL",
+      "MAYO",
+      "JUNIO",
+      "JULIO",
+      "AGOSTO",
+      "SEPTIEMBRE",
+      "OCTUBRE",
+      "NOVIEMBRE",
+      "DICIEMBRE"
+    ],
+    "venta2024": [
+      445091001,
+      446614846,
+      496374440,
+      517776072,
+      513883812,
+      507542308,
+      572783386,
+      631650976,
+      601837788,
+      817752208,
+      752793025,
+      752793025
+    ],
+    "real2025": [
+      745930060,
+      740271882,
+      865684750,
+      866260380,
+      837003202,
+      723488549,
+      866800630,
+      830933519,
+      830933519,
+      940415039,
+      828072327,
+      828072327
+    ],
+    "presupuesto2026": [
+      820523066,
+      814299070.2,
+      952253225,
+      952886418,
+      920703522.2,
+      795837403.9,
+      953480693,
+      914026870.9,
+      833815653,
+      1034456542.9,
+      910879559.7,
+      910879559.7
+    ],
+    "real2026": [
+      983826040,
+      928547354,
+      1165245244,
+      858590290,
+      985175136,
+      995722525,
+      864139184,
+      845040494,
+      846059523,
+      938907907,
+      null,
+      null
+    ],
+    "totales": {
+      "venta2024": 7056892887,
+      "real2025": 9903866184,
+      "presupuesto2026": 11059815256.875,
+      "real2026": 9411253697
+    },
+    "ytd": {
+      "meses": 10,
+      "real2026": 9411253697,
+      "real2025": 8247721530,
+      "crecimientoPct": 14.107316339037453
+    }
+  },
+  "kilos": {
+    "meses": [
+      "ENERO",
+      "FEBRERO",
+      "MARZO",
+      "ABRIL",
+      "MAYO",
+      "JUNIO",
+      "JULIO",
+      "AGOSTO",
+      "SEPTIEMBRE",
+      "OCTUBRE",
+      "NOVIEMBRE",
+      "DICIEMBRE"
+    ],
+    "venta2024": [
+      31776,
+      32475,
+      37157,
+      39198,
+      37120,
+      37912,
+      42214,
+      46070,
+      44375,
+      58002,
+      53102,
+      57622
+    ],
+    "real2025": [
+      44720,
+      45566,
+      54488,
+      56989,
+      57258,
+      52631,
+      65635,
+      62169,
+      57351,
+      85842,
+      78590,
+      85280
+    ],
+    "presupuesto2026": [
+      50310,
+      51261.75,
+      61299,
+      64112.625,
+      64415.25,
+      59209.875,
+      73839.375,
+      69940.125,
+      64519.875,
+      69158,
+      88413,
+      95940
+    ],
+    "real2026": [
+      74595,
+      67868,
+      75668,
+      68632,
+      75296,
+      73489,
+      71600,
+      69640,
+      71035,
+      83664,
+      null,
+      null
+    ],
+    "crecimiento2026": [
+      66.80456171735241,
+      48.944388359741914,
+      38.870944061077665,
+      20.430258470932987,
+      31.503021411855116,
+      39.630635936995304,
+      9.0881389502552,
+      12.017243320626035,
+      23.860089623546234,
+      -2.537219542881107,
+      null,
+      null
+    ],
+    "proyeccion2027": [
+      84292.35,
+      76690.84,
+      85504.84,
+      77554.16,
+      85084.48,
+      83042.57,
+      80908,
+      78693.2,
+      80269.55,
+      94540.32,
+      0,
+      0
+    ],
+    "totales": {
+      "venta2024": 517023,
+      "real2025": 746519,
+      "presupuesto2026": 812418.875,
+      "real2026": 731487,
+      "proyeccion2027": 826580.31
+    },
+    "ytd": {
+      "meses": 10,
+      "real2026": 731487,
+      "real2025": 582649,
+      "venta2024": 406299,
+      "presupuesto2026": 628065.875,
+      "crecimientoPct": 25.54505371158279,
+      "cumplimientoPct": 116.46660471722015
+    }
+  },
+  "nichos": [
+    {
+      "nombre": "CARNICERIAS",
+      "kilos": 24876
+    },
+    {
+      "nombre": "RESTAURANTES",
+      "kilos": 23963
+    },
+    {
+      "nombre": "HOGARES",
+      "kilos": 22323
+    },
+    {
+      "nombre": "TIENDAS",
+      "kilos": 11609
+    },
+    {
+      "nombre": "EMPLEADOS",
+      "kilos": 834
+    }
+  ],
+  "nichosTotal": 83605,
+  "productos": [
+    {
+      "producto": "PIERNA CERDO",
+      "kilos": 17778.845,
+      "valor": 237911608.0,
+      "utilidad": 37901069.24,
+      "margen": 15.930735603283386
+    },
+    {
+      "producto": "BRAZO CERDO",
+      "kilos": 11059.326,
+      "valor": 131813491.0,
+      "utilidad": 27934454.609999996,
+      "margen": 21.192409364228123
+    },
+    {
+      "producto": "COSTILLA CERDO CON PIEL",
+      "kilos": 7824.345000000001,
+      "valor": 106628687.0,
+      "utilidad": -2382857.48,
+      "margen": -2.2347245821380133
+    },
+    {
+      "producto": "ESPINAZO DE CERDO",
+      "kilos": 6707.206,
+      "valor": 47129823.0,
+      "utilidad": -200626.44000000003,
+      "margen": -0.4256889316134288
+    },
+    {
+      "producto": "GARRA DE TOCINO",
+      "kilos": 6279.219,
+      "valor": 6586714.0,
+      "utilidad": -10362628.330000002,
+      "margen": -157.3262226050805
+    },
+    {
+      "producto": "LOMO CERDO",
+      "kilos": 5707.516,
+      "valor": 99301472.0,
+      "utilidad": 17634876.22,
+      "margen": 17.75892729968796
+    },
+    {
+      "producto": "TOCINETA DE CERDO",
+      "kilos": 5541.821,
+      "valor": 94862218.0,
+      "utilidad": 30684260.310000002,
+      "margen": 32.346134169032396
+    },
+    {
+      "producto": "CABEZA DE CERDO",
+      "kilos": 4954.609999999999,
+      "valor": 6526913.0,
+      "utilidad": -6176988.41,
+      "margen": -94.63874284826534
+    },
+    {
+      "producto": "COSTILLA CERDO SIN PIEL",
+      "kilos": 3672.3920000000007,
+      "valor": 59875140.0,
+      "utilidad": 8755174.23,
+      "margen": 14.62238623575661
+    },
+    {
+      "producto": "CABEZA DE LOMO DE CERDO",
+      "kilos": 3367.693,
+      "valor": 57539543.0,
+      "utilidad": 12158452.91,
+      "margen": 21.13060388748656
+    },
+    {
+      "producto": "PEZUNA CERDO",
+      "kilos": 2492.799,
+      "valor": 7345052.0,
+      "utilidad": 5336577.609999999,
+      "margen": 72.65540951922463
+    },
+    {
+      "producto": "PAPADA DE CERDO",
+      "kilos": 2439.9320000000002,
+      "valor": 30058222.0,
+      "utilidad": 14805410.24,
+      "margen": 49.25577514198944
+    },
+    {
+      "producto": "TOCINO BLANCO",
+      "kilos": 1637.4299999999998,
+      "valor": 11209639.0,
+      "utilidad": -2083167.8900000004,
+      "margen": -18.583719689813385
+    },
+    {
+      "producto": "TOCINO ESPECIAL",
+      "kilos": 1088.0779999999997,
+      "valor": 16878835.0,
+      "utilidad": 6693478.090000001,
+      "margen": 39.65604314515783
+    },
+    {
+      "producto": "EMPELLA DE CERDO",
+      "kilos": 935.936,
+      "valor": 3853957.0,
+      "utilidad": -2194679.8,
+      "margen": -56.946141329547785
+    },
+    {
+      "producto": "REBANADO DE CERDO",
+      "kilos": 614.4,
+      "valor": 3624770.0,
+      "utilidad": -742011.1399999999,
+      "margen": -20.470571650063313
+    },
+    {
+      "producto": "FORRO DE TOCINO COMPLETO",
+      "kilos": 377.9,
+      "valor": 3140000.0,
+      "utilidad": 1827853.01,
+      "margen": 58.211879299363055
+    },
+    {
+      "producto": "RECORTE DE GARRA",
+      "kilos": 227.0,
+      "valor": 158900.0,
+      "utilidad": 77091.1,
+      "margen": 48.5154814348647
+    },
+    {
+      "producto": "CHORIZO SELECCIONADO X 500 GR",
+      "kilos": 220.17199999999997,
+      "valor": 5123097.0,
+      "utilidad": 1499119.53,
+      "margen": 29.26197825260775
+    },
+    {
+      "producto": "RECORTE DE PAPADA",
+      "kilos": 199.75500000000002,
+      "valor": 519363.0,
+      "utilidad": 266914.85,
+      "margen": 51.39273494646326
+    },
+    {
+      "producto": "CUADRANTE DE CERDO",
+      "kilos": 136.6,
+      "valor": 2207300.0,
+      "utilidad": 980065.64,
+      "margen": 44.401107235083586
+    },
+    {
+      "producto": "COSTILLA CERDO ESPECIAL",
+      "kilos": 97.90599999999999,
+      "valor": 2457441.0,
+      "utilidad": 1094865.8199999998,
+      "margen": 44.55308672720931
+    },
+    {
+      "producto": "OSSOBUCO DE CERDO",
+      "kilos": 84.26100000000001,
+      "valor": 876315.0,
+      "utilidad": 201516.55,
+      "margen": 22.99590329961258
+    },
+    {
+      "producto": "CARNE MOLIDA ESPECIAL",
+      "kilos": 55.277,
+      "valor": 1083429.0,
+      "utilidad": 465014.67999999993,
+      "margen": 42.920641777172285
+    },
+    {
+      "producto": "OREJA CERDO",
+      "kilos": 53.62,
+      "valor": 325427.0,
+      "utilidad": 187359.23,
+      "margen": 57.573351319958086
+    },
+    {
+      "producto": "SOLOMO DE CERDO",
+      "kilos": 30.1,
+      "valor": 541800.0,
+      "utilidad": 205396.74000000002,
+      "margen": 37.91006644518273
+    },
+    {
+      "producto": "CARNE MOLIDA DE CERDO",
+      "kilos": 25.400000000000002,
+      "valor": 480060.0,
+      "utilidad": 254472.38,
+      "margen": 53.00845311002791
+    },
+    {
+      "producto": "TROZITOS DE CERDO",
+      "kilos": 13.859,
+      "valor": 138590.0,
+      "utilidad": 15274.04,
+      "margen": 11.021026048055415
+    },
+    {
+      "producto": "COSTILLA CORRIENTE",
+      "kilos": 13.690000000000001,
+      "valor": 206737.0,
+      "utilidad": 15294.4,
+      "margen": 7.397998423117294
+    },
+    {
+      "producto": "PUNTA DE ANCA",
+      "kilos": 10.93,
+      "valor": 244286.0,
+      "utilidad": 123910.17000000001,
+      "margen": 50.72340207789231
+    },
+    {
+      "producto": "CARNE INDUSTRIAL",
+      "kilos": 5.0,
+      "valor": 78750.0,
+      "utilidad": 34440.41,
+      "margen": 43.733853968253975
+    },
+    {
+      "producto": "COSTILLA CORRIENTE EN TIRAS",
+      "kilos": 3.1,
+      "valor": 37200.0,
+      "utilidad": -6466.13,
+      "margen": -17.38206989247312
+    },
+    {
+      "producto": "CHULETON DE BRAZO",
+      "kilos": 2.165,
+      "valor": 45682.0,
+      "utilidad": 23508.79,
+      "margen": 51.46182303752025
+    },
+    {
+      "producto": "TABLA DE CERDO",
+      "kilos": 2.1,
+      "valor": 37800.0,
+      "utilidad": 14959.48,
+      "margen": 39.575343915343915
+    },
+    {
+      "producto": "RECORTE DE COSTILLA",
+      "kilos": 1.86,
+      "valor": 14880.0,
+      "utilidad": -11164.91,
+      "margen": -75.03299731182796
+    },
+    {
+      "producto": "MATAMBRE DE CERDO",
+      "kilos": 1.14,
+      "valor": 24966.0,
+      "utilidad": 14801.46,
+      "margen": 59.286469598654165
+    },
+    {
+      "producto": "CADERA DE CERDO",
+      "kilos": 1.1,
+      "valor": 19800.0,
+      "utilidad": 7527.54,
+      "margen": 38.017878787878786
+    }
+  ],
+  "detalle": [
+    {
+      "codigo": "1612.0",
+      "producto": "PIERNA CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 17.89,
+      "utilidad": 14162214.99,
+      "valor": 79135607,
+      "kilos": 5773.991
+    },
+    {
+      "codigo": "1612.0",
+      "producto": "PIERNA CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": 16.66,
+      "utilidad": 11361653.41,
+      "valor": 68158861,
+      "kilos": 5043.229
+    },
+    {
+      "codigo": "1626.0",
+      "producto": "CABEZA DE CERDO",
+      "tipoCliente": "CARNICERIAS",
+      "margen": -96.5,
+      "utilidad": -6174246.71,
+      "valor": 6398163,
+      "kilos": 4903.11
+    },
+    {
+      "codigo": "1613.0",
+      "producto": "BRAZO CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 26.27,
+      "utilidad": 13250104.86,
+      "valor": 50421893,
+      "kilos": 4011.537
+    },
+    {
+      "codigo": "1613.0",
+      "producto": "BRAZO CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": 18.93,
+      "utilidad": 8596840.36,
+      "valor": 45411033,
+      "kilos": 3915.089
+    },
+    {
+      "codigo": "1612.0",
+      "producto": "PIERNA CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": 14.37,
+      "utilidad": 7030880.41,
+      "valor": 48913972,
+      "kilos": 3722.935
+    },
+    {
+      "codigo": "1614.0",
+      "producto": "COSTILLA CERDO CON PIEL",
+      "tipoCliente": "CARNICERIAS",
+      "margen": -3.01,
+      "utilidad": -1270919.73,
+      "valor": 42089377,
+      "kilos": 3112.655
+    },
+    {
+      "codigo": "1612.0",
+      "producto": "PIERNA CERDO",
+      "tipoCliente": "CARNICERIAS",
+      "margen": 12.43,
+      "utilidad": 4909547,
+      "valor": 39490832,
+      "kilos": 3080.666
+    },
+    {
+      "codigo": "1719.0",
+      "producto": "GARRA DE TOCINO",
+      "tipoCliente": "HOGARES",
+      "margen": -176.28,
+      "utilidad": -4422516.16,
+      "valor": 2508784,
+      "kilos": 2566.17
+    },
+    {
+      "codigo": "1616.0",
+      "producto": "ESPINAZO DE CERDO",
+      "tipoCliente": "CARNICERIAS",
+      "margen": -0.98,
+      "utilidad": -166235.51,
+      "valor": 16804140,
+      "kilos": 2404.69
+    },
+    {
+      "codigo": "1613.0",
+      "producto": "BRAZO CERDO",
+      "tipoCliente": "CARNICERIAS",
+      "margen": 14.54,
+      "utilidad": 3647283.86,
+      "valor": 25077110,
+      "kilos": 2219.05
+    },
+    {
+      "codigo": "1627.0",
+      "producto": "CABEZA DE LOMO DE CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 20.9,
+      "utilidad": 7733317.29,
+      "valor": 36996272,
+      "kilos": 2170.177
+    },
+    {
+      "codigo": "1614.0",
+      "producto": "COSTILLA CERDO CON PIEL",
+      "tipoCliente": "HOGARES",
+      "margen": -2.2,
+      "utilidad": -619847.73,
+      "valor": 28161960,
+      "kilos": 2066.045
+    },
+    {
+      "codigo": "1719.0",
+      "producto": "GARRA DE TOCINO",
+      "tipoCliente": "CARNICERIAS",
+      "margen": -152.28,
+      "utilidad": -3322826.56,
+      "valor": 2182002,
+      "kilos": 2040.56
+    },
+    {
+      "codigo": "1611.0",
+      "producto": "LOMO CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 19.19,
+      "utilidad": 6537441.76,
+      "valor": 34051443,
+      "kilos": 1916.618
+    },
+    {
+      "codigo": "1615.0",
+      "producto": "TOCINETA DE CERDO",
+      "tipoCliente": "CARNICERIAS",
+      "margen": 31.74,
+      "utilidad": 9499193.63,
+      "valor": 29926795,
+      "kilos": 1763.4
+    },
+    {
+      "codigo": "1611.0",
+      "producto": "LOMO CERDO",
+      "tipoCliente": "CARNICERIAS",
+      "margen": 15.41,
+      "utilidad": 4319274.14,
+      "valor": 28018176,
+      "kilos": 1662.25
+    },
+    {
+      "codigo": "1615.0",
+      "producto": "TOCINETA DE CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": 32.68,
+      "utilidad": 9189877.67,
+      "valor": 28118974,
+      "kilos": 1634.227
+    },
+    {
+      "codigo": "1614.0",
+      "producto": "COSTILLA CERDO CON PIEL",
+      "tipoCliente": "TIENDAS",
+      "margen": -2.56,
+      "utilidad": -562438.23,
+      "valor": 21946250,
+      "kilos": 1614.425
+    },
+    {
+      "codigo": "1719.0",
+      "producto": "GARRA DE TOCINO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": -142.81,
+      "utilidad": -2413093.18,
+      "valor": 1689628,
+      "kilos": 1520.289
+    },
+    {
+      "codigo": "1638.0",
+      "producto": "COSTILLA CERDO SIN PIEL",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 14.14,
+      "utilidad": 3406129.48,
+      "valor": 24072143,
+      "kilos": 1484.682
+    },
+    {
+      "codigo": "1616.0",
+      "producto": "ESPINAZO DE CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": -0.86,
+      "utilidad": -85960.91,
+      "valor": 9923502,
+      "kilos": 1418.525
+    },
+    {
+      "codigo": "1616.0",
+      "producto": "ESPINAZO DE CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": 0.77,
+      "utilidad": 77117.89,
+      "valor": 9963733,
+      "kilos": 1401.71
+    },
+    {
+      "codigo": "1616.0",
+      "producto": "ESPINAZO DE CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": -0.34,
+      "utilidad": -32696.12,
+      "valor": 9360627,
+      "kilos": 1330.876
+    },
+    {
+      "codigo": "1638.0",
+      "producto": "COSTILLA CERDO SIN PIEL",
+      "tipoCliente": "HOGARES",
+      "margen": 14.38,
+      "utilidad": 3064196.69,
+      "valor": 21296945,
+      "kilos": 1309.105
+    },
+    {
+      "codigo": "1617.0",
+      "producto": "PAPADA DE CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 49.13,
+      "utilidad": 7792749.42,
+      "valor": 15858464,
+      "kilos": 1287.473
+    },
+    {
+      "codigo": "1615.0",
+      "producto": "TOCINETA DE CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 32.51,
+      "utilidad": 6967118.3,
+      "valor": 21425737,
+      "kilos": 1249.517
+    },
+    {
+      "codigo": "1620.0",
+      "producto": "PEZUNA CERDO",
+      "tipoCliente": "CARNICERIAS",
+      "margen": 72.56,
+      "utilidad": 2637427.58,
+      "valor": 3634600,
+      "kilos": 1230.45
+    },
+    {
+      "codigo": "1611.0",
+      "producto": "LOMO CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": 17.83,
+      "utilidad": 3527958.05,
+      "valor": 19780423,
+      "kilos": 1131.718
+    },
+    {
+      "codigo": "1614.0",
+      "producto": "COSTILLA CERDO CON PIEL",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 0.02,
+      "utilidad": 3073.79,
+      "valor": 13517300,
+      "kilos": 970.3
+    },
+    {
+      "codigo": "1611.0",
+      "producto": "LOMO CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": 18.56,
+      "utilidad": 3139544.38,
+      "valor": 16911346,
+      "kilos": 966.77
+    },
+    {
+      "codigo": "1613.0",
+      "producto": "BRAZO CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": 22.03,
+      "utilidad": 2308684.11,
+      "valor": 10475130,
+      "kilos": 880.9
+    },
+    {
+      "codigo": "1627.0",
+      "producto": "CABEZA DE LOMO DE CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": 21.6,
+      "utilidad": 3211091.07,
+      "valor": 14864801,
+      "kilos": 863.956
+    },
+    {
+      "codigo": "1615.0",
+      "producto": "TOCINETA DE CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": 32.62,
+      "utilidad": 4787474.2,
+      "valor": 14675422,
+      "kilos": 853.591
+    },
+    {
+      "codigo": "1619.0",
+      "producto": "TOCINO BLANCO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": -17.94,
+      "utilidad": -926479.33,
+      "valor": 5164112,
+      "kilos": 750.57
+    },
+    {
+      "codigo": "1617.0",
+      "producto": "PAPADA DE CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": 49.47,
+      "utilidad": 4547342.67,
+      "valor": 9190380,
+      "kilos": 743.435
+    },
+    {
+      "codigo": "1620.0",
+      "producto": "PEZUNA CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": 72.41,
+      "utilidad": 1035761.34,
+      "valor": 1430322,
+      "kilos": 490.59
+    },
+    {
+      "codigo": "1620.0",
+      "producto": "PEZUNA CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": 72.82,
+      "utilidad": 1049884.85,
+      "valor": 1441569,
+      "kilos": 490.214
+    },
+    {
+      "codigo": "1638.0",
+      "producto": "COSTILLA CERDO SIN PIEL",
+      "tipoCliente": "TIENDAS",
+      "margen": 16.23,
+      "utilidad": 1246746.47,
+      "valor": 7681496,
+      "kilos": 463.125
+    },
+    {
+      "codigo": "1619.0",
+      "producto": "TOCINO BLANCO",
+      "tipoCliente": "CARNICERIAS",
+      "margen": -18.39,
+      "utilidad": -550500.21,
+      "valor": 2993000,
+      "kilos": 436.2
+    },
+    {
+      "codigo": "1638.0",
+      "producto": "COSTILLA CERDO SIN PIEL",
+      "tipoCliente": "CARNICERIAS",
+      "margen": 14.99,
+      "utilidad": 901072.34,
+      "valor": 6008427,
+      "kilos": 366.61
+    },
+    {
+      "codigo": "1618.0",
+      "producto": "TOCINO ESPECIAL",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 40.64,
+      "utilidad": 2293674.36,
+      "valor": 5643694,
+      "kilos": 359.075
+    },
+    {
+      "codigo": "1618.0",
+      "producto": "TOCINO ESPECIAL",
+      "tipoCliente": "HOGARES",
+      "margen": 37.44,
+      "utilidad": 1817734.64,
+      "valor": 4853866,
+      "kilos": 325.375
+    },
+    {
+      "codigo": "1617.0",
+      "producto": "PAPADA DE CERDO",
+      "tipoCliente": "CARNICERIAS",
+      "margen": 49.15,
+      "utilidad": 1781775.83,
+      "valor": 3624665,
+      "kilos": 296.9
+    },
+    {
+      "codigo": "1619.0",
+      "producto": "TOCINO BLANCO",
+      "tipoCliente": "TIENDAS",
+      "margen": -21.18,
+      "utilidad": -417276.53,
+      "valor": 1969475,
+      "kilos": 294.1
+    },
+    {
+      "codigo": "1624.0",
+      "producto": "EMPELLA DE CERDO",
+      "tipoCliente": "CARNICERIAS",
+      "margen": -55.14,
+      "utilidad": -672959.52,
+      "valor": 1220345,
+      "kilos": 293
+    },
+    {
+      "codigo": "1624.0",
+      "producto": "EMPELLA DE CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": -54.41,
+      "utilidad": -628670.52,
+      "valor": 1155400,
+      "kilos": 275.97
+    },
+    {
+      "codigo": "1628.0",
+      "producto": "REBANADO DE CERDO",
+      "tipoCliente": "CARNICERIAS",
+      "margen": -24.79,
+      "utilidad": -375554.48,
+      "valor": 1514610,
+      "kilos": 265.8
+    },
+    {
+      "codigo": "1620.0",
+      "producto": "PEZUNA CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 73.5,
+      "utilidad": 540105.6,
+      "valor": 734761,
+      "kilos": 244.585
+    },
+    {
+      "codigo": "1731.0",
+      "producto": "RECORTE DE GARRA",
+      "tipoCliente": "CARNICERIAS",
+      "margen": 48.51,
+      "utilidad": 77091.1,
+      "valor": 158900,
+      "kilos": 227
+    },
+    {
+      "codigo": "1042.0",
+      "producto": "FORRO DE TOCINO COMPLETO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 58.51,
+      "utilidad": 1102473.55,
+      "valor": 1884000,
+      "kilos": 223.1
+    },
+    {
+      "codigo": "1624.0",
+      "producto": "EMPELLA DE CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": -58.14,
+      "utilidad": -527037.71,
+      "valor": 906381,
+      "kilos": 221.98
+    },
+    {
+      "codigo": "1618.0",
+      "producto": "TOCINO ESPECIAL",
+      "tipoCliente": "TIENDAS",
+      "margen": 40.44,
+      "utilidad": 1398533.04,
+      "valor": 3457945,
+      "kilos": 218.8
+    },
+    {
+      "codigo": "1628.0",
+      "producto": "REBANADO DE CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": -18.06,
+      "utilidad": -176278.09,
+      "valor": 975550,
+      "kilos": 162.1
+    },
+    {
+      "codigo": "1618.0",
+      "producto": "TOCINO ESPECIAL",
+      "tipoCliente": "CARNICERIAS",
+      "margen": 40.23,
+      "utilidad": 1000741.63,
+      "valor": 2487486,
+      "kilos": 157.33
+    },
+    {
+      "codigo": "1042.0",
+      "producto": "FORRO DE TOCINO COMPLETO",
+      "tipoCliente": "HOGARES",
+      "margen": 57.75,
+      "utilidad": 725379.46,
+      "valor": 1256000,
+      "kilos": 154.8
+    },
+    {
+      "codigo": "1627.0",
+      "producto": "CABEZA DE LOMO DE CERDO",
+      "tipoCliente": "CARNICERIAS",
+      "margen": 20.14,
+      "utilidad": 515425.28,
+      "valor": 2558840,
+      "kilos": 151.4
+    },
+    {
+      "codigo": "1619.0",
+      "producto": "TOCINO BLANCO",
+      "tipoCliente": "HOGARES",
+      "margen": -17.49,
+      "utilidad": -178731.35,
+      "valor": 1021892,
+      "kilos": 147.76
+    },
+    {
+      "codigo": "1719.0",
+      "producto": "GARRA DE TOCINO",
+      "tipoCliente": "TIENDAS",
+      "margen": -100.61,
+      "utilidad": -191515.63,
+      "valor": 190340,
+      "kilos": 141.6
+    },
+    {
+      "codigo": "1200.0",
+      "producto": "CUADRANTE DE CERDO",
+      "tipoCliente": "CARNICERIAS",
+      "margen": 44.4,
+      "utilidad": 980065.64,
+      "valor": 2207300,
+      "kilos": 136.6
+    },
+    {
+      "codigo": "1627.0",
+      "producto": "CABEZA DE LOMO DE CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 23.01,
+      "utilidad": 531025.5,
+      "valor": 2307225,
+      "kilos": 134.1
+    },
+    {
+      "codigo": "1624.0",
+      "producto": "EMPELLA DE CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": -65.37,
+      "utilidad": -332679.98,
+      "valor": 508910,
+      "kilos": 130.1
+    },
+    {
+      "codigo": "1628.0",
+      "producto": "REBANADO DE CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": -17.09,
+      "utilidad": -134924.75,
+      "valor": 789210,
+      "kilos": 130.1
+    },
+    {
+      "codigo": "1617.0",
+      "producto": "PAPADA DE CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": 49.46,
+      "utilidad": 646513.9,
+      "valor": 1306943,
+      "kilos": 105.828
+    },
+    {
+      "codigo": "1612.0",
+      "producto": "PIERNA CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 19.98,
+      "utilidad": 279258.41,
+      "valor": 1397494,
+      "kilos": 99.821
+    },
+    {
+      "codigo": "1662.0",
+      "producto": "COSTILLA CERDO ESPECIAL",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 44.54,
+      "utilidad": 983131.71,
+      "valor": 2207294,
+      "kilos": 87.94
+    },
+    {
+      "codigo": "1732.0",
+      "producto": "RECORTE DE PAPADA",
+      "tipoCliente": "CARNICERIAS",
+      "margen": -14.49,
+      "utilidad": -31440.37,
+      "valor": 216840,
+      "kilos": 83.4
+    },
+    {
+      "codigo": "1649.0",
+      "producto": "CHORIZO SELECCIONADO X 500 GR",
+      "tipoCliente": "HOGARES",
+      "margen": 41.68,
+      "utilidad": 514322.31,
+      "valor": 1714829,
+      "kilos": 73.283
+    },
+    {
+      "codigo": "1616.0",
+      "producto": "ESPINAZO DE CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 2.57,
+      "utilidad": 12181.12,
+      "valor": 472695,
+      "kilos": 65.215
+    },
+    {
+      "codigo": "1209.0",
+      "producto": "OSSOBUCO DE CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": 23.44,
+      "utilidad": 151708.25,
+      "valor": 647036,
+      "kilos": 62.215
+    },
+    {
+      "codigo": "1612.0",
+      "producto": "PIERNA CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 19.33,
+      "utilidad": 157515.02,
+      "valor": 814842,
+      "kilos": 58.203
+    },
+    {
+      "codigo": "1732.0",
+      "producto": "RECORTE DE PAPADA",
+      "tipoCliente": "TIENDAS",
+      "margen": 98.79,
+      "utilidad": 148208.49,
+      "valor": 150020,
+      "kilos": 57.7
+    },
+    {
+      "codigo": "1628.0",
+      "producto": "REBANADO DE CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": -15.99,
+      "utilidad": -55253.82,
+      "valor": 345400,
+      "kilos": 56.4
+    },
+    {
+      "codigo": "1616.0",
+      "producto": "ESPINAZO DE CERDO",
+      "tipoCliente": "DESPERDICIOS",
+      "margen": -4.5,
+      "utilidad": -14353.15,
+      "valor": 318920,
+      "kilos": 46.9
+    },
+    {
+      "codigo": "1649.0",
+      "producto": "CHORIZO SELECCIONADO X 500 GR",
+      "tipoCliente": "CARNICERIAS",
+      "margen": 41.01,
+      "utilidad": 313017.7,
+      "valor": 1060723,
+      "kilos": 45.33
+    },
+    {
+      "codigo": "1732.0",
+      "producto": "RECORTE DE PAPADA",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 98.43,
+      "utilidad": 103766.73,
+      "valor": 105417,
+      "kilos": 40.545
+    },
+    {
+      "codigo": "1638.0",
+      "producto": "COSTILLA CERDO SIN PIEL",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 16.85,
+      "utilidad": 110761.9,
+      "valor": 657312,
+      "kilos": 39.36
+    },
+    {
+      "codigo": "1616.0",
+      "producto": "ESPINAZO DE CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 3.25,
+      "utilidad": 9320.24,
+      "valor": 286206,
+      "kilos": 39.29
+    },
+    {
+      "codigo": "1649.0",
+      "producto": "CHORIZO SELECCIONADO X 500 GR",
+      "tipoCliente": "TIENDAS",
+      "margen": 38.33,
+      "utilidad": 241143.17,
+      "valor": 874409,
+      "kilos": 38.605
+    },
+    {
+      "codigo": "1671.0",
+      "producto": "CARNE MOLIDA ESPECIAL",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 43.02,
+      "utilidad": 282286.23,
+      "valor": 656149,
+      "kilos": 33.477
+    },
+    {
+      "codigo": "1621.0",
+      "producto": "OREJA CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": 58.25,
+      "utilidad": 117344.85,
+      "valor": 201427,
+      "kilos": 32.52
+    },
+    {
+      "codigo": "1649.0",
+      "producto": "CHORIZO SELECCIONADO X 500 GR",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 40.51,
+      "utilidad": 221291.29,
+      "valor": 759223,
+      "kilos": 32.445
+    },
+    {
+      "codigo": "1614.0",
+      "producto": "COSTILLA CERDO CON PIEL",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 7.21,
+      "utilidad": 34097.51,
+      "valor": 472350,
+      "kilos": 31.49
+    },
+    {
+      "codigo": "1627.0",
+      "producto": "CABEZA DE LOMO DE CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": 19.02,
+      "utilidad": 93701.8,
+      "valor": 492555,
+      "kilos": 29.5
+    },
+    {
+      "codigo": "1614.0",
+      "producto": "COSTILLA CERDO CON PIEL",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 7.51,
+      "utilidad": 33176.91,
+      "valor": 441450,
+      "kilos": 29.43
+    },
+    {
+      "codigo": "1649.0",
+      "producto": "CHORIZO SELECCIONADO X 500 GR",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 40.7,
+      "utilidad": 191936.2,
+      "valor": 655412,
+      "kilos": 28.009
+    },
+    {
+      "codigo": "1615.0",
+      "producto": "TOCINETA DE CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 33.59,
+      "utilidad": 151642.85,
+      "valor": 451319,
+      "kilos": 25.931
+    },
+    {
+      "codigo": "1626.0",
+      "producto": "CABEZA DE CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": -2.49,
+      "utilidad": -1553.92,
+      "valor": 62250,
+      "kilos": 24.9
+    },
+    {
+      "codigo": "1620.0",
+      "producto": "PEZUNA CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 71.82,
+      "utilidad": 48839.46,
+      "valor": 68000,
+      "kilos": 23.78
+    },
+    {
+      "codigo": "1205.0",
+      "producto": "SOLOMO DE CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": 37.63,
+      "utilidad": 140222.98,
+      "valor": 372600,
+      "kilos": 20.7
+    },
+    {
+      "codigo": "1627.0",
+      "producto": "CABEZA DE LOMO DE CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 23.1,
+      "utilidad": 73891.97,
+      "valor": 319850,
+      "kilos": 18.56
+    },
+    {
+      "codigo": "1665.0",
+      "producto": "CARNE MOLIDA DE CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 53,
+      "utilidad": 183318.01,
+      "valor": 345870,
+      "kilos": 18.3
+    },
+    {
+      "codigo": "1611.0",
+      "producto": "LOMO CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 20.91,
+      "utilidad": 67456.29,
+      "valor": 322599,
+      "kilos": 18.01
+    },
+    {
+      "codigo": "1671.0",
+      "producto": "CARNE MOLIDA ESPECIAL",
+      "tipoCliente": "HOGARES",
+      "margen": 42.75,
+      "utilidad": 150832.33,
+      "valor": 352800,
+      "kilos": 18
+    },
+    {
+      "codigo": "1613.0",
+      "producto": "BRAZO CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 32.02,
+      "utilidad": 71208.74,
+      "valor": 222320,
+      "kilos": 17.1
+    },
+    {
+      "codigo": "1209.0",
+      "producto": "OSSOBUCO DE CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": 22.2,
+      "utilidad": 39128.9,
+      "valor": 176239,
+      "kilos": 16.946
+    },
+    {
+      "codigo": "1626.0",
+      "producto": "CABEZA DE CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": -1.94,
+      "utilidad": -798.11,
+      "valor": 41000,
+      "kilos": 16.4
+    },
+    {
+      "codigo": "1613.0",
+      "producto": "BRAZO CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 29.28,
+      "utilidad": 60332.68,
+      "valor": 206005,
+      "kilos": 15.65
+    },
+    {
+      "codigo": "1615.0",
+      "producto": "TOCINETA DE CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 33.69,
+      "utilidad": 88953.66,
+      "valor": 263971,
+      "kilos": 15.155
+    },
+    {
+      "codigo": "1618.0",
+      "producto": "TOCINO ESPECIAL",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 41.82,
+      "utilidad": 96149.69,
+      "valor": 229873,
+      "kilos": 14.503
+    },
+    {
+      "codigo": "1621.0",
+      "producto": "OREJA CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": 59.98,
+      "utilidad": 51582.81,
+      "valor": 86000,
+      "kilos": 13.495
+    },
+    {
+      "codigo": "1620.0",
+      "producto": "PEZUNA CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 68.59,
+      "utilidad": 24558.78,
+      "valor": 35800,
+      "kilos": 13.18
+    },
+    {
+      "codigo": "1618.0",
+      "producto": "TOCINO ESPECIAL",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 42.06,
+      "utilidad": 86644.73,
+      "valor": 205971,
+      "kilos": 12.995
+    },
+    {
+      "codigo": "1732.0",
+      "producto": "RECORTE DE PAPADA",
+      "tipoCliente": "HOGARES",
+      "margen": 98.07,
+      "utilidad": 27922.5,
+      "valor": 28470,
+      "kilos": 10.95
+    },
+    {
+      "codigo": "1734.0",
+      "producto": "COSTILLA CORRIENTE",
+      "tipoCliente": "TIENDAS",
+      "margen": 7.94,
+      "utilidad": 12437.69,
+      "valor": 156565,
+      "kilos": 10.3
+    },
+    {
+      "codigo": "1626.0",
+      "producto": "CABEZA DE CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": -1.52,
+      "utilidad": -389.67,
+      "valor": 25500,
+      "kilos": 10.2
+    },
+    {
+      "codigo": "1638.0",
+      "producto": "COSTILLA CERDO SIN PIEL",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 16.53,
+      "utilidad": 26267.35,
+      "valor": 158817,
+      "kilos": 9.51
+    },
+    {
+      "codigo": "1738.0",
+      "producto": "TROZITOS DE CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 11.11,
+      "utilidad": 10401.27,
+      "valor": 93590,
+      "kilos": 9.359
+    },
+    {
+      "codigo": "1624.0",
+      "producto": "EMPELLA DE CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": -52.32,
+      "utilidad": -20209.05,
+      "valor": 38620,
+      "kilos": 9.1
+    },
+    {
+      "codigo": "1732.0",
+      "producto": "RECORTE DE PAPADA",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 99.14,
+      "utilidad": 18457.5,
+      "valor": 18616,
+      "kilos": 7.16
+    },
+    {
+      "codigo": "1611.0",
+      "producto": "LOMO CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 19.92,
+      "utilidad": 25506.32,
+      "valor": 127985,
+      "kilos": 7.15
+    },
+    {
+      "codigo": "1662.0",
+      "producto": "COSTILLA CERDO ESPECIAL",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 44.84,
+      "utilidad": 78017.39,
+      "valor": 173968,
+      "kilos": 6.931
+    },
+    {
+      "codigo": "1205.0",
+      "producto": "SOLOMO DE CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 38.51,
+      "utilidad": 47838.13,
+      "valor": 124200,
+      "kilos": 6.9
+    },
+    {
+      "codigo": "1041.0",
+      "producto": "PUNTA DE ANCA",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 50.48,
+      "utilidad": 74475.6,
+      "valor": 147510,
+      "kilos": 6.6
+    },
+    {
+      "codigo": "1719.0",
+      "producto": "GARRA DE TOCINO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": -103.91,
+      "utilidad": -9102.91,
+      "valor": 8760,
+      "kilos": 6.6
+    },
+    {
+      "codigo": "1665.0",
+      "producto": "CARNE MOLIDA DE CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": 52.97,
+      "utilidad": 59077.01,
+      "valor": 111510,
+      "kilos": 5.9
+    },
+    {
+      "codigo": "1624.0",
+      "producto": "EMPELLA DE CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": -54,
+      "utilidad": -13123.02,
+      "valor": 24301,
+      "kilos": 5.786
+    },
+    {
+      "codigo": "1617.0",
+      "producto": "PAPADA DE CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 46.91,
+      "utilidad": 29908.13,
+      "valor": 63753,
+      "kilos": 5.161
+    },
+    {
+      "codigo": "1202.0",
+      "producto": "CARNE INDUSTRIAL",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 43.73,
+      "utilidad": 34440.41,
+      "valor": 78750,
+      "kilos": 5
+    },
+    {
+      "codigo": "1611.0",
+      "producto": "LOMO CERDO",
+      "tipoCliente": "DESPERDICIOS",
+      "margen": 19.77,
+      "utilidad": 17695.28,
+      "valor": 89500,
+      "kilos": 5
+    },
+    {
+      "codigo": "1619.0",
+      "producto": "TOCINO BLANCO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": -16.4,
+      "utilidad": -5243.37,
+      "valor": 31970,
+      "kilos": 4.6
+    },
+    {
+      "codigo": "1738.0",
+      "producto": "TROZITOS DE CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": 10.82,
+      "utilidad": 4872.77,
+      "valor": 45000,
+      "kilos": 4.5
+    },
+    {
+      "codigo": "1041.0",
+      "producto": "PUNTA DE ANCA",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 51.08,
+      "utilidad": 49434.57,
+      "valor": 96776,
+      "kilos": 4.33
+    },
+    {
+      "codigo": "1619.0",
+      "producto": "TOCINO BLANCO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": -16.91,
+      "utilidad": -4937.1,
+      "valor": 29190,
+      "kilos": 4.2
+    },
+    {
+      "codigo": "1719.0",
+      "producto": "GARRA DE TOCINO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": -49.63,
+      "utilidad": -3573.89,
+      "valor": 7200,
+      "kilos": 4
+    },
+    {
+      "codigo": "1209.0",
+      "producto": "OSSOBUCO DE CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 20.13,
+      "utilidad": 6700.8,
+      "valor": 33280,
+      "kilos": 3.2
+    },
+    {
+      "codigo": "1621.0",
+      "producto": "OREJA CERDO",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 43.4,
+      "utilidad": 6076.99,
+      "valor": 14000,
+      "kilos": 3.105
+    },
+    {
+      "codigo": "1737.0",
+      "producto": "COSTILLA CORRIENTE EN TIRAS",
+      "tipoCliente": "RESTAURANTES",
+      "margen": -17.38,
+      "utilidad": -6466.13,
+      "valor": 37200,
+      "kilos": 3.1
+    },
+    {
+      "codigo": "1662.0",
+      "producto": "COSTILLA CERDO ESPECIAL",
+      "tipoCliente": "HOGARES",
+      "margen": 44.25,
+      "utilidad": 33716.72,
+      "valor": 76179,
+      "kilos": 3.035
+    },
+    {
+      "codigo": "1621.0",
+      "producto": "OREJA CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 57.45,
+      "utilidad": 9192.42,
+      "valor": 16000,
+      "kilos": 2.6
+    },
+    {
+      "codigo": "1205.0",
+      "producto": "SOLOMO DE CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 38.52,
+      "utilidad": 17335.63,
+      "valor": 45000,
+      "kilos": 2.5
+    },
+    {
+      "codigo": "1734.0",
+      "producto": "COSTILLA CORRIENTE",
+      "tipoCliente": "RESTAURANTES",
+      "margen": 5.36,
+      "utilidad": 1896.74,
+      "valor": 35372,
+      "kilos": 2.39
+    },
+    {
+      "codigo": "1671.0",
+      "producto": "CARNE MOLIDA ESPECIAL",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 42.04,
+      "utilidad": 18128.24,
+      "valor": 43120,
+      "kilos": 2.2
+    },
+    {
+      "codigo": "1717.0",
+      "producto": "CHULETON DE BRAZO",
+      "tipoCliente": "TIENDAS",
+      "margen": 51.46,
+      "utilidad": 23508.79,
+      "valor": 45682,
+      "kilos": 2.165
+    },
+    {
+      "codigo": "1211.0",
+      "producto": "TABLA DE CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": 39.57,
+      "utilidad": 14959.48,
+      "valor": 37800,
+      "kilos": 2.1
+    },
+    {
+      "codigo": "1209.0",
+      "producto": "OSSOBUCO DE CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 20.13,
+      "utilidad": 3978.6,
+      "valor": 19760,
+      "kilos": 1.9
+    },
+    {
+      "codigo": "1621.0",
+      "producto": "OREJA CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 39.52,
+      "utilidad": 3162.16,
+      "valor": 8000,
+      "kilos": 1.9
+    },
+    {
+      "codigo": "1736.0",
+      "producto": "RECORTE DE COSTILLA",
+      "tipoCliente": "HOGARES",
+      "margen": -75.03,
+      "utilidad": -11164.91,
+      "valor": 14880,
+      "kilos": 1.86
+    },
+    {
+      "codigo": "1671.0",
+      "producto": "CARNE MOLIDA ESPECIAL",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 43.9,
+      "utilidad": 13767.88,
+      "valor": 31360,
+      "kilos": 1.6
+    },
+    {
+      "codigo": "1649.0",
+      "producto": "CHORIZO SELECCIONADO X 500 GR",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 41.43,
+      "utilidad": 10463.01,
+      "valor": 35100,
+      "kilos": 1.5
+    },
+    {
+      "codigo": "1665.0",
+      "producto": "CARNE MOLIDA DE CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": 53.25,
+      "utilidad": 12077.36,
+      "valor": 22680,
+      "kilos": 1.2
+    },
+    {
+      "codigo": "1676.0",
+      "producto": "MATAMBRE DE CERDO",
+      "tipoCliente": "HOGARES",
+      "margen": 59.28,
+      "utilidad": 14801.46,
+      "valor": 24966,
+      "kilos": 1.14
+    },
+    {
+      "codigo": "1617.0",
+      "producto": "PAPADA DE CERDO",
+      "tipoCliente": "EMPLEADOS",
+      "margen": 50.79,
+      "utilidad": 7120.29,
+      "valor": 14017,
+      "kilos": 1.135
+    },
+    {
+      "codigo": "1215.0",
+      "producto": "CADERA DE CERDO",
+      "tipoCliente": "TIENDAS",
+      "margen": 38.01,
+      "utilidad": 7527.54,
+      "valor": 19800,
+      "kilos": 1.1
+    },
+    {
+      "codigo": "1734.0",
+      "producto": "COSTILLA CORRIENTE",
+      "tipoCliente": "HOGARES",
+      "margen": 6.48,
+      "utilidad": 959.97,
+      "valor": 14800,
+      "kilos": 1
+    },
+    {
+      "codigo": "1649.0",
+      "producto": "CHORIZO SELECCIONADO X 500 GR",
+      "tipoCliente": "DESPERDICIOS",
+      "margen": 41.25,
+      "utilidad": 6945.85,
+      "valor": 23401,
+      "kilos": 1
+    }
+  ],
+  "tiposCliente": [
+    "CARNICERIAS",
+    "DESPERDICIOS",
+    "EMPLEADOS",
+    "HOGARES",
+    "RESTAURANTES",
+    "TIENDAS"
+  ],
+  "canales": {
+    "terrazas": {
+      "2022": [
+        847,
+        738,
+        815,
+        799,
+        657,
+        847,
+        859,
+        920,
+        957,
+        864,
+        860,
+        957
+      ],
+      "2023": [
+        699,
+        646,
+        887,
+        780,
+        1170,
+        905,
+        930,
+        807,
+        920,
+        926,
+        875,
+        940
+      ],
+      "2024": [
+        857,
+        716,
+        866,
+        901,
+        976,
+        854,
+        869,
+        762,
+        791,
+        863,
+        770,
+        846
+      ],
+      "2025": [
+        788,
+        698,
+        789,
+        837,
+        913,
+        884,
+        1062,
+        967,
+        935,
+        953,
+        867,
+        1120
+      ],
+      "2026": [
+        989,
+        915,
+        998,
+        961,
+        1132,
+        1221,
+        1228,
+        1141,
+        983,
+        998,
+        null,
+        null
+      ]
+    },
+    "comercializadora": {
+      "2022": [
+        55,
+        59,
+        67,
+        56,
+        97,
+        79,
+        109,
+        88,
+        111,
+        144,
+        185,
+        262
+      ],
+      "2023": [
+        231,
+        234,
+        290,
+        200,
+        304,
+        273,
+        304,
+        280,
+        283,
+        353,
+        381,
+        384
+      ],
+      "2024": [
+        342,
+        330,
+        360,
+        392,
+        389,
+        348,
+        429,
+        482,
+        403,
+        412,
+        363,
+        577
+      ],
+      "2025": [
+        501,
+        445,
+        525,
+        568,
+        532,
+        488,
+        670,
+        584,
+        593,
+        586,
+        573,
+        814
+      ],
+      "2026": [
+        728,
+        696,
+        786,
+        725,
+        755,
+        772,
+        728,
+        779,
+        611,
+        677,
+        null,
+        null
+      ]
+    },
+    "participacion2026": [
+      73.60970677451971,
+      76.0655737704918,
+      78.75751503006012,
+      75.44224765868887,
+      66.69611307420494,
+      63.22686322686323,
+      59.28338762214984,
+      68.27344434706399,
+      62.156663275686675,
+      67.83567134268537,
+      null,
+      null
+    ],
+    "meses": [
+      "ENERO",
+      "FEBRERO",
+      "MARZO",
+      "ABRIL",
+      "MAYO",
+      "JUNIO",
+      "JULIO",
+      "AGOSTO",
+      "SEPTIEMBRE",
+      "OCTUBRE",
+      "NOVIEMBRE",
+      "DICIEMBRE"
+    ],
+    "totales": {
+      "terrazas": {
+        "2022": 10120,
+        "2023": 10485,
+        "2024": 10071,
+        "2025": 10813,
+        "2026": 10566
+      },
+      "comercializadora": {
+        "2022": 1312,
+        "2023": 3517,
+        "2024": 4827,
+        "2025": 6879,
+        "2026": 7257
+      },
+      "participacion2026": null
+    },
+    "fuente": "CANALES OCTUBRE (CIERRE OCTUBRE 2026.xls)"
+  }
+}
