@@ -2,7 +2,7 @@
 
 Dashboard interactivo construido a partir de **`CIERRE OCTUBRE  2026.xls`** (escritorio).
 
-🔗 **En vivo:** https://itachiganaxd-cloud.github.io/hermes-dashboard-octubre/ *(se actualiza al desplegar)*
+🔗 **En vivo:** https://itachiganaxd350-cloud.github.io/hermes-dashboard-octubre/
 
 ## 📑 Alcance por hoja
 
